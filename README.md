@@ -1,7 +1,7 @@
 # 💫 Wisdom Innocent Nnaemeka
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;19+Year+Old+Developer;Building+the+Future+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;18+Year+Old+Developer;Building+the+Future+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@ const wisdom = {
     role: "Full-Stack Dev @ IHS Towers",
     education: "Software Engineering Student",
     gpa: "4.52/5.0 | Graduating 2026 at 19",
-    focus: ["React", ".NET Core", "AI Integration"]
+    focus: ["Typescript", "Java", "Python"]
 };
 ```
 
